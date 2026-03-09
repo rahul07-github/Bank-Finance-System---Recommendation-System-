@@ -1,3 +1,2 @@
-**.joblib
-**.pkl
-__pycache__/
+*.joblib
+*.pkl
